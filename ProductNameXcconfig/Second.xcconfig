@@ -1,0 +1,5 @@
+//
+//  Second.xcconfig
+//
+
+PRODUCT_NAME = $(inherited)-Second

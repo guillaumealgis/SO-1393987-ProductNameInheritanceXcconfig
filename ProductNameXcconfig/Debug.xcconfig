@@ -1,0 +1,7 @@
+//
+//  Debug.xcconfig
+//
+
+#include "Generic.xcconfig"
+
+PRODUCT_NAME = $(inherited)-Debug
